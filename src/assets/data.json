@@ -1,0 +1,2312 @@
+{
+   "type":"FeatureCollection",
+   "name":"vacunatorios_covid_WGS84",
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"1",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Oficina Nacional Scout",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Libertad 1282",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.384513288973089,
+               -34.593200216505096
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"2",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Sede Oscoema",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Bernardo de Irigoyen 330",
+            "calle":"Bernardo de Irigoyen",
+            "altura":"330",
+            "calle2":null,
+            "direccion_":"IRIGOYEN, BERNARDO DE 330",
+            "barrio":"MONSERRAT",
+            "comuna":"Comuna 1",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.380481799208482,
+               -34.612147525839227
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"3",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club San Lorenzo (Sede Av. La Plata)",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. La Plata 1770",
+            "calle":"Av. La Plata",
+            "altura":"1770",
+            "calle2":null,
+            "direccion_":"LA PLATA AV. 1770",
+            "barrio":"BOEDO",
+            "comuna":"Comuna 5",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.424583538830959,
+               -34.635385358016052
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"4",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Italiano",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Yerbal 150",
+            "calle":"Yerbal",
+            "altura":"150",
+            "calle2":null,
+            "direccion_":"YERBAL 150",
+            "barrio":"CABALLITO",
+            "comuna":"Comuna 6",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.432914789815122,
+               -34.615378958409757
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"5",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Parque Roca",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Cnel. Roca 4200",
+            "calle":"Av. Cnel. Roca",
+            "altura":"4200",
+            "calle2":null,
+            "direccion_":"ROCA, CNEL. AV. 4200",
+            "barrio":"VILLA SOLDATI",
+            "comuna":"Comuna 8",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.447465910164858,
+               -34.67548976356138
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"6",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Glorias Argentinas",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Bragado 6875",
+            "calle":"bragado",
+            "altura":"6875",
+            "calle2":null,
+            "direccion_":"BRAGADO 6875, CABA",
+            "barrio":"MATADEROS",
+            "comuna":"Comuna 9",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.509888251663028,
+               -34.659278767531227
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"7",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Vélez",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Juan B. Justo 9200",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.519510634671732,
+               -34.633653477192773
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"8",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Mitre",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Segurola 1332",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.495461165307667,
+               -34.623691739202478
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"9",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Sin Rumbo",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Tamborini 6157",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.503764647856237,
+               -34.572529605627658
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"10",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Fundación Pardes",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Céspedes 3370",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.454026758076864,
+               -34.577790284751693
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"11",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Atlanta",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Humboldt 374",
+            "calle":"humboldt",
+            "altura":"374",
+            "calle2":null,
+            "direccion_":"HUMBOLDT 374, CABA",
+            "barrio":"VILLA CRESPO",
+            "comuna":"Comuna 15",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.448572861168692,
+               -34.595312778160341
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"12",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"CEMAR 2",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Iriarte 3501",
+            "calle":"iriarte",
+            "altura":"3501",
+            "calle2":null,
+            "direccion_":"IRIARTE, GRAL. AV. 3501, CABA",
+            "barrio":"BARRACAS",
+            "comuna":"Comuna 4",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.396662722657759,
+               -34.651432174581998
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"13",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Centro Cultural Julián Centeya",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"San Juan 3255",
+            "calle":"San Juan",
+            "altura":"3255",
+            "calle2":null,
+            "direccion_":"SAN JUAN AV. 3255, CABA",
+            "barrio":"SAN CRISTOBAL",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.411333092747505,
+               -34.62479608045475
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"14",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Huracán",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Amancio Alcorta 2570",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.396863709532191,
+               -34.642947009214375
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"15",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Racing Villa del Parque",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Nogoyá 3045",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.491358962572583,
+               -34.602564812389204
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"16",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Morán",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Pedro Morán 2446",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.491102492670613,
+               -34.589612366846126
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"17",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Centro Cultural Adán Buenosayres",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Emilio Mitre 975",
+            "calle":"Emilio Mitre",
+            "altura":"975",
+            "calle2":null,
+            "direccion_":"MITRE, EMILIO 975, CABA",
+            "barrio":"PARQUE CHACABUCO",
+            "comuna":"Comuna 7",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.441114064339409,
+               -34.632353807193063
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"18",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Centro Islámico",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Int. Bullrich 55",
+            "calle":"bullrich",
+            "altura":"55",
+            "calle2":null,
+            "direccion_":"BULLRICH, INT. AV. 55, CABA",
+            "barrio":"PALERMO",
+            "comuna":"Comuna 14",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.424407171373467,
+               -34.573124847366913
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"19",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Estadio San Lorenzo",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Fernández de la Cruz 2145",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.43647499363793,
+               -34.654440013949547
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"20",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Corralón Floresta",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Gaona 4660",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.488448631745378,
+               -34.626973380803172
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"21",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Casa del Historiador",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Bolívar 466",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.373240915212527,
+               -34.613284257220791
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"22",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Centro Cultural Recoleta",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Junín 1930",
+            "calle":"junin",
+            "altura":"1930",
+            "calle2":null,
+            "direccion_":"JUNIN 1930, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.391574790070109,
+               -34.586496897826059
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"23",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Usina del Arte",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Agustín Caffarena 1",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.356452340787499,
+               -34.628919539776845
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"24",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Ferro Carril Oeste",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Martín de Gainza 206",
+            "calle":"Martín de Gainza",
+            "altura":"206",
+            "calle2":null,
+            "direccion_":"GAINZA, MARTIN DE, GRAL. 206, CABA",
+            "barrio":"CABALLITO",
+            "comuna":"Comuna 6",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.445996024098498,
+               -34.620492939188807
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"25",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Comunicaciones (Salón de fiestas)",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. San Martín 5125",
+            "calle":"Av. San Martín",
+            "altura":"5125",
+            "calle2":null,
+            "direccion_":"SAN MARTIN AV. 5125, CABA",
+            "barrio":"AGRONOMIA",
+            "comuna":"Comuna 15",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.490671771185866,
+               -34.597024154780478
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"26",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Centro de Día Nº 9 y 13",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Paraguay 5170",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.430632512482298,
+               -34.579759467171897
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"27",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"La Rural",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Sarmiento 2704",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.421406731733995,
+               -34.580224112013923
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"28",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Club Boca Junior (Social)",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"20 de Septiembre y Martín Rodríguez",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.36428379254864,
+               -34.631351297959277
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"29",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Salud independiente que reside en la Ciudad",
+            "efector":"Posta de vacunación extrahospitalaria River Plate",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Figueroa Alcorta 7597",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.448967922766492,
+               -34.54617607668478
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"30",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Niños Pedro de Elizalde",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Manuel Montes de Oca 40",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.377550847838869,
+               -34.628847361608436
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"31",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Niños Ricardo Gutiérrez",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Gallo 1330",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.412070076311338,
+               -34.594191973078786
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"32",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital Materno Infantil R. Sardá",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Esteban de Luca 2151",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.402750626782456,
+               -34.634856309563979
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"33",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital de Infecciosas F. Muñiz",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Uspallata 2272",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.393726939990167,
+               -34.637529326709192
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"34",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos B. Rivadavia",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Las Heras 2670",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.400513456170401,
+               -34.584765959279473
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"35",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. C. Argerich",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Pi y Margall 750",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.36598508788861,
+               -34.628344859119231
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"36",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. J. A. Fernández",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Cerviño 3356",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.406893913161774,
+               -34.581141712118971
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"37",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. C. Durand",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Díaz Vélez 5044",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.437981361086742,
+               -34.608972854311645
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"38",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. T. Álvarez",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Dr. Juan F. Aranguren 2701",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.469502034923387,
+               -34.624170494870746
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"39",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos J. M. Ramos Mejía",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Gral. Urquiza 609",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.409610747977979,
+               -34.617659844821169
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"40",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. I. Pirovano",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Monroe 3555",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.471078157958779,
+               -34.565051957586228
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"41",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos A. Zubizarreta",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Nueva York 3592",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.5110524985989,
+               -34.599979525038499
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"42",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos D. Vélez Sársfield",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Calderón de la Barca 1550",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.507615139554211,
+               -34.625336795957054
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"43",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital Gral. de Agudos Donación F. Santojanni",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Pilar 950",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.515629192560873,
+               -34.6491867284835
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"44",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital Gral. de Agudos J. A. Penna",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Dr. Prof. Pedro Chutro 3380",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.41086021746699,
+               -34.643117259746411
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"45",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal de Sistema de Salud Público de la Ciudad y de Centros de Salud Privados y de otras esferas que vacunan a su personal en hospitales",
+            "efector":"Hospital Gral. de Agudos Dr. E. Tornú",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Combatientes de Malvinas 3002",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.471097627383294,
+               -34.587391770116263
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"46",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital Gral. de Agudos P. Piñero",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Varela 1301",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.454116780500932,
+               -34.643894072548711
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"47",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Hospital Gral. de Agudos Cecilia Grierson",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Av. Gral. Fernández de la Cruz 4402",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.456642848426213,
+               -34.671848014466974
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"48",
+            "categoria":"Público",
+            "clasif_int":"Atención a Personal del Sistema de Salud Público de la Ciudad",
+            "efector":"Unidad de Vacunación Monasterio",
+            "tipo_de_ef":"Sistema Público de la Ciudad",
+            "direccion":"Monasterio 490",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.393824244837177,
+               -34.641363424374255
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"49",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Policlínico Central UOM",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Hipólito Yrigoyen 3352",
+            "calle":"Av. Hipólito Yrigoyen",
+            "altura":"3352",
+            "calle2":null,
+            "direccion_":"YRIGOYEN, HIPOLITO AV. 3352, CABA",
+            "barrio":"ALMAGRO",
+            "comuna":"Comuna 5",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.414042299753568,
+               -34.612897707198208
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"50",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Finochietto",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Córdoba 2674",
+            "calle":"Córdoba",
+            "altura":"2674",
+            "calle2":null,
+            "direccion_":"CORDOBA AV. 2674, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.405376945481294,
+               -34.598125690192191
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"51",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Dr. Julio Méndez",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Avellaneda 551",
+            "calle":"Avellaneda",
+            "altura":"551",
+            "calle2":null,
+            "direccion_":"AVELLANEDA 551, CABA",
+            "barrio":"CABALLITO",
+            "comuna":"Comuna 6",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.438992404357556,
+               -34.614445158662065
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"52",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Franchín",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Bartolomé Mitre 3545",
+            "calle":"Bartolomé Mitre",
+            "altura":"3545",
+            "calle2":null,
+            "direccion_":"MITRE, BARTOLOME 3545, CABA",
+            "barrio":"ALMAGRO",
+            "comuna":"Comuna 5",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.416526852595169,
+               -34.609459065055795
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"53",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Anchorena",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Dr. Tomás Manuel de Anchorena 1872",
+            "calle":"Dr. Tomás Manuel de Anchorena",
+            "altura":"1872",
+            "calle2":null,
+            "direccion_":"ANCHORENA, TOMAS MANUEL DE, DR. 1872, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.400288679997217,
+               -34.589418152962757
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"54",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Alemán",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Pueyrredón 1640",
+            "calle":"Pueyrredón",
+            "altura":"1640",
+            "calle2":null,
+            "direccion_":"PUEYRREDON AV. 1640, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.401324496929227,
+               -34.591949571657061
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"55",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Clínica Suizo Argentina",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Pueyrredón 1461",
+            "calle":"Pueyrredón",
+            "altura":"1461",
+            "calle2":null,
+            "direccion_":"PUEYRREDON AV. 1461, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.401942239446669,
+               -34.593767926323736
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"56",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Británico",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Perdriel 74",
+            "calle":"Perdriel",
+            "altura":"74",
+            "calle2":null,
+            "direccion_":"PERDRIEL 74, CABA",
+            "barrio":"BARRACAS",
+            "comuna":"Comuna 4",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.387977132006107,
+               -34.634791078554798
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"57",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Fundación Favaloro",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Belgrano 1746",
+            "calle":"Belgrano",
+            "altura":"1746",
+            "calle2":null,
+            "direccion_":"BELGRANO AV. 1746, CABA",
+            "barrio":"MONSERRAT",
+            "comuna":"Comuna 1",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.391113766438124,
+               -34.613862729881056
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"58",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio San José",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Sánchez de Bustamante1674",
+            "calle":"sanchez de bustamante",
+            "altura":"1674",
+            "calle2":null,
+            "direccion_":"SANCHEZ DE BUSTAMANTE 1674, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.410055371885804,
+               -34.59161912644003
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"59",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Güemes",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Francisco Acuña de Figueroa 1240",
+            "calle":"Francisco Acuña de Figueroa",
+            "altura":"1240",
+            "calle2":null,
+            "direccion_":"ACUÑA DE FIGUEROA, FRANCISCO 1240, CABA",
+            "barrio":"PALERMO",
+            "comuna":"Comuna 14",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.421753747477233,
+               -34.597302573791374
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"60",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio de la Trinidad Palermo",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Cerviño 4720",
+            "calle":"Av Cerviño",
+            "altura":"4720",
+            "calle2":null,
+            "direccion_":"CERVIÑO AV. 4720, CABA",
+            "barrio":"PALERMO",
+            "comuna":"Comuna 14",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.423994047750796,
+               -34.574960674547071
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"61",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Instituto Argentino de Diagnóstico y Tratamiento S.A.",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Marcelo T. de Alvear de 2346",
+            "calle":"Marcelo T. de Alvear de",
+            "altura":"2346",
+            "calle2":null,
+            "direccion_":"ALVEAR, MARCELO T. DE 2346, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.40091191353897,
+               -34.596596989783535
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"62",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Antártida",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Rivadavia 4978",
+            "calle":"Av. Rivadavia",
+            "altura":"4978",
+            "calle2":null,
+            "direccion_":"RIVADAVIA AV. 4978, CABA",
+            "barrio":"CABALLITO",
+            "comuna":"Comuna 6",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.435882058156984,
+               -34.618128627263438
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"63",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Italiano",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Gascón 450",
+            "calle":"Gascón",
+            "altura":"450",
+            "calle2":null,
+            "direccion_":"GASCON 450, CABA",
+            "barrio":"ALMAGRO",
+            "comuna":"Comuna 5",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.424659291047718,
+               -34.606656182615836
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"64",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital de Oncología Ángel H. Roffo",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. San Martín 5481",
+            "calle":"Av San Martín",
+            "altura":"5481",
+            "calle2":null,
+            "direccion_":"SAN MARTIN AV. 5481, CABA",
+            "barrio":"AGRONOMIA",
+            "comuna":"Comuna 15",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.494813625581479,
+               -34.596839141511616
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"65",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"CEMIC - Sede Saavedra",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Galván 4102",
+            "calle":"Galván",
+            "altura":"4102",
+            "calle2":null,
+            "direccion_":"GALVAN 4102, CABA",
+            "barrio":"SAAVEDRA",
+            "comuna":"Comuna 12",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.495015668486509,
+               -34.557331229474237
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"66",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"CEMIC - Sede Las Heras",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Gral. Las Heras 2900",
+            "calle":"Las heras",
+            "altura":"2900",
+            "calle2":null,
+            "direccion_":"LAS HERAS GENERAL AV. 2900, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.402034939776549,
+               -34.583645284683463
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"67",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Milstein y otros efectores del PAMI",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"La Rioja 951",
+            "calle":"La Rioja",
+            "altura":"951",
+            "calle2":null,
+            "direccion_":"LA RIOJA 951, CABA",
+            "barrio":"SAN CRISTOBAL",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.407504015473506,
+               -34.621544807179198
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"68",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Naval",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Patricias Argentinas 351",
+            "calle":"Patricias Argentinas",
+            "altura":"351",
+            "calle2":null,
+            "direccion_":"PATRICIAS ARGENTINAS AV. 351, CABA",
+            "barrio":"CABALLITO",
+            "comuna":"Comuna 6",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.433537419689692,
+               -34.604894614933244
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"69",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Aeronáutico Central",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Ventura de la vega 3697",
+            "calle":"Ventura de la vega",
+            "altura":"3697",
+            "calle2":null,
+            "direccion_":"VEGA, VENTURA DE LA 3697, CABA",
+            "barrio":"NUEVA POMPEYA",
+            "comuna":"Comuna 4",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.41190995624634,
+               -34.652978824504743
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"70",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Personal de Residencias de Adultos Mayores de la Ciudad",
+            "efector":"Complejo Cultural Sanidad",
+            "tipo_de_ef":"Personal de Residencias de Adultos Mayores de la Ciudad",
+            "direccion":"Venezuela 2255",
+            "calle":"Venezuela",
+            "altura":"2255",
+            "calle2":null,
+            "direccion_":"REPUBLICA BOLIVARIANA DE VENEZUELA 2255, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":"Fatsa"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.398669130555035,
+               -34.614979043828917
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"71",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital de Pediatría Prof. Dr. Juan P. Garrahan",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Pichincha 1890",
+            "calle":"Av. Pichincha",
+            "altura":"1890",
+            "calle2":null,
+            "direccion_":"PICHINCHA AV. 1890, CABA",
+            "barrio":"PARQUE PATRICIOS",
+            "comuna":"Comuna 4",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.395960764178007,
+               -34.631441697747547
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"72",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital de Clínicas José de San Martín",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Córdoba 2351",
+            "calle":"Av. Córdoba",
+            "altura":"2351",
+            "calle2":null,
+            "direccion_":"CORDOBA AV. 2351, CABA",
+            "barrio":"RECOLETA",
+            "comuna":"Comuna 2",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.400640169501123,
+               -34.599450654129612
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"73",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Militar Central Dr. Cosme Argerich",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Luis María Campos 726",
+            "calle":null,
+            "altura":null,
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.436170880000432,
+               -34.570064261295535
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"74",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio de la Trinidad Mitre",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Bartolomé Mitre 2553",
+            "calle":"Bartolomé Mitre",
+            "altura":"2553",
+            "calle2":null,
+            "direccion_":"MITRE, BARTOLOME 2553, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.402671094129474,
+               -34.608621918043376
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"75",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Policonsultorio Jonas Salk",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Tte. Gral. Juan Domingo Perón 2354",
+            "calle":"juan domingo perón",
+            "altura":"2354",
+            "calle2":null,
+            "direccion_":"PERON, JUAN DOMINGO, TTE. GENERAL 2354, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.399983857197945,
+               -34.607400194320007
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"76",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Policonsultorio Jonas Sarandí",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Sarandí 927",
+            "calle":"Sarandí",
+            "altura":"927",
+            "calle2":null,
+            "direccion_":"SARANDI 927, CABA",
+            "barrio":"SAN CRISTOBAL",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.394544799362492,
+               -34.61996111458037
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"77",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Policonsultorio Apresa Flores",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Bacacay 2359",
+            "calle":"Bacacay",
+            "altura":"2359",
+            "calle2":null,
+            "direccion_":"BACACAY 2359, CABA",
+            "barrio":"FLORES",
+            "comuna":"Comuna 7",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.463209821551615,
+               -34.626244139772695
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"78",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Policonsultorio Apresa Lacroze",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Federico Lacroze 3830",
+            "calle":"Lacroze",
+            "altura":"3830",
+            "calle2":null,
+            "direccion_":"LACROZE, FEDERICO AV. 3830, CABA",
+            "barrio":"CHACARITA",
+            "comuna":"Comuna 15",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.452929411637598,
+               -34.583766344429634
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"79",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Centro Helios",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Perú 1515",
+            "calle":"Perú",
+            "altura":"1515",
+            "calle2":null,
+            "direccion_":"PERU 1515, CABA",
+            "barrio":"SAN TELMO",
+            "comuna":"Comuna 1",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.374007975199994,
+               -34.625872191931144
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"81",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Sanatorio Sagrado Corazón",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Bartolomé Mitre 1955",
+            "calle":"Bartolomé Mitre",
+            "altura":"1955",
+            "calle2":null,
+            "direccion_":"MITRE, BARTOLOME 1955, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.394428581355683,
+               -34.608084804912941
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"82",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Anexo Sagrado Corazón",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Bartolomé Mitre 2139",
+            "calle":"Bartolomé Mitre",
+            "altura":"2139",
+            "calle2":null,
+            "direccion_":"MITRE, BARTOLOME 2139, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.396998775427846,
+               -34.60827857422764
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"83",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Subsector privado, seguridad social, entidades universitarias y dependencia nacional",
+            "efector":"Hospital Español",
+            "tipo_de_ef":"Subsector Privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Belgrano 2975",
+            "calle":"Belgrano",
+            "altura":"2975",
+            "calle2":null,
+            "direccion_":"BELGRANO AV. 2975, CABA",
+            "barrio":"BALVANERA",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.407865717687493,
+               -34.614935418605285
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"84",
+            "categoria":"Público",
+            "clasif_int":"Sistema Público de la Ciudad",
+            "efector":"Centro de Día Parque Chacabuco",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Picheuta 1517",
+            "calle":"Picheuta",
+            "altura":"1517",
+            "calle2":null,
+            "direccion_":"PICHEUTA 1517, CABA",
+            "barrio":"PARQUE CHACABUCO",
+            "comuna":"Comuna 7",
+            "observacio":"Esta posta ya no realiza vacunaciones."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.435088625652845,
+               -34.636604521343294
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"85",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores Empadronados",
+            "efector":"Luna Park",
+            "tipo_de_ef":"Sistema público de la ciudad (Posta extrahospitalaria)",
+            "direccion":"BOUCHARD 437",
+            "calle":"BOUCHARD",
+            "altura":"437",
+            "calle2":null,
+            "direccion_":"BOUCHARD 437",
+            "barrio":"SAN NICOLAS",
+            "comuna":"Comuna 1",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.369020945277825,
+               -34.602348371060899
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"86",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Movistar Arena",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Humboldt 450",
+            "calle":"Humboldt",
+            "altura":"450",
+            "calle2":null,
+            "direccion_":"HUMBOLDT 450",
+            "barrio":"VILLA CRESPO",
+            "comuna":"Comuna 15",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.447787617132015,
+               -34.594737047029064
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"87",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"PAMI - Centro de Promoción y Prevención",
+            "tipo_de_ef":"Subsector privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Estados Unidos 3205",
+            "calle":"Estados Unidos",
+            "altura":"3205",
+            "calle2":null,
+            "direccion_":"ESTADOS UNIDOS 3205",
+            "barrio":"SAN CRISTOBAL",
+            "comuna":"Comuna 3",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.411111695363125,
+               -34.621587879495074
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"88",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"PAMI - Centro de Promoción, Prevención y Rehabilitación",
+            "tipo_de_ef":"Subsector privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Emilio Mitre 688",
+            "calle":"Emilio Mitre",
+            "altura":"688",
+            "calle2":null,
+            "direccion_":"MITRE, EMILIO 688",
+            "barrio":"PARQUE CHACABUCO",
+            "comuna":"Comuna 7",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.44270954303871,
+               -34.630063580563359
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"89",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"PAMI - Agencia 3",
+            "tipo_de_ef":"Subsector privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Av. Beiro 3572",
+            "calle":"Av. Beiro",
+            "altura":"3572",
+            "calle2":null,
+            "direccion_":"BEIRO, FRANCISCO AV. 3572",
+            "barrio":"VILLA DEL PARQUE",
+            "comuna":"Comuna 11",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.503308164473673,
+               -34.600680205536101
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"90",
+            "categoria":"Privado",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"PAMI - Facultad de Medicina",
+            "tipo_de_ef":"Subsector privado, de la seguridad social, de entidades universitarias y de dependencia nacional",
+            "direccion":"Paraguay 2155",
+            "calle":"Paraguay",
+            "altura":"2155",
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.398192882859696,
+               -34.598349638647591
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"92",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Ministerio de Desarrollo Humano y Hábitat",
+            "tipo_de_ef":"Sistema público de la ciudad (Posta extrahospitalaria)",
+            "direccion":"Av. Piedrabuena 3280",
+            "calle":"Av. Piedrabuena",
+            "altura":"3280",
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.493893446823201,
+               -34.671813845610693
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"93",
+            "categoria":"Público",
+            "clasif_int":"Atención a Adultos Mayores",
+            "efector":"Local Papa Francisco",
+            "tipo_de_ef":"Sistema público de la ciudad (Posta extrahospitalaria)",
+            "direccion":"Albariño 4315",
+            "calle":"Albariño",
+            "altura":"4315",
+            "calle2":null,
+            "direccion_":null,
+            "barrio":null,
+            "comuna":null,
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.463916205769372,
+               -34.675096068409005
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"97",
+            "categoria":"Público",
+            "clasif_int":"Atención al público general",
+            "efector":"Ministerio de Educación",
+            "tipo_de_ef":"Sistema Público de la Ciudad (Posta extrahospitalaria)",
+            "direccion":"Perette, Carlos H. e Islas Galápagos (ex eje I calle 10)",
+            "calle":"Perette, Carlos H.",
+            "altura":null,
+            "calle2":"eje I",
+            "direccion_":"PERETTE, CARLOS H. y EJE I - CALLE 10 (NO OFICIAL)",
+            "barrio":"RETIRO",
+            "comuna":"Comuna 1",
+            "observacio":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -58.378762949060494,
+               -34.582267366847205
+            ]
+         }
+      }
+   ]
+}
