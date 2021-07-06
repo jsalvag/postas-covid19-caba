@@ -1,6 +1,7 @@
 {
   "name": "postas-covid-caba",
   "version": "0.0.0",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4201",
@@ -21,7 +22,11 @@
     "@angular/platform-browser-dynamic": "~11.2.14",
     "@angular/router": "~11.2.14",
     "@ng-bootstrap/ng-bootstrap": "^9.1.3",
+    "@types/ol": "^6.5.2",
+    "@types/proj4": "^2.5.0",
     "bootstrap": "^4.5.0",
+    "ol": "^6.5.0",
+    "proj4": "^2.7.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
